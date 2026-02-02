@@ -10,7 +10,7 @@ El propósito del análisis es ayudar al propietario de la cadena, a tomar una d
 El estudio se apoya en indicadores clave de negocio como ingresos totales, categorias mas vendidas, reseñas de los clientes y envio promedio por cada sucursal, con el fin de identificar la tienda menos eficiente.
 
 <p align="center">
-  <img width=300px src="https://github.com/AgustinMartinez7/ONE-challenge-AluraStore/blob/main/images/Insignia.png" alt="Insignia"/>
+  <img width=350px src="https://github.com/AgustinMartinez7/ONE-challenge-AluraStore/blob/main/images/Insignia.png" alt="Insignia"/>
 </p>
 
 ## **Herramientas utilizadas**
