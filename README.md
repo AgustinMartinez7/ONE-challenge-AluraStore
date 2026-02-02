@@ -1,8 +1,5 @@
 # **Challenge: Alura Store**
 
-<p align="center">
-  <img src="https://github.com/AgustinMartinez7/ONE-challenge-AluraStore/blob/main/images/Insignia.png" alt="Insignia"/>
-</p>
 
 ## **Descripción del proyecto**
 
@@ -11,6 +8,10 @@ Este proyecto consiste en un análisis exploratorio de datos realizado en Google
 El propósito del análisis es ayudar al propietario de la cadena, a tomar una decisión estratégica: determinar cuál de las tiendas debería vender para financiar un nuevo emprendimiento, basándose en métricas objetivas de desempeño.
 
 El estudio se apoya en indicadores clave de negocio como ingresos totales, categorias mas vendidas, reseñas de los clientes y envio promedio por cada sucursal, con el fin de identificar la tienda menos eficiente.
+
+<p align="center">
+  <img width=200px src="https://github.com/AgustinMartinez7/ONE-challenge-AluraStore/blob/main/images/Insignia.png" alt="Insignia"/>
+</p>
 
 ## **Herramientas utilizadas**
 - Python.
