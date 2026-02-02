@@ -9,10 +9,10 @@ El propósito del análisis es ayudar al propietario de la cadena, a tomar una d
 El estudio se apoya en indicadores clave de negocio como ingresos totales, categorias mas vendidas, reseñas de los clientes y envio promedio por cada sucursal, con el fin de identificar la tienda menos eficiente.
 
 ## **Herramientas utilizadas**
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+- Python.
+- Pandas.
+- Matplotlib.
+- Google Colab.
 
 ## **Ejecución del proyecto**
 1. Descargar el archivo desde este repositorio.
@@ -24,7 +24,7 @@ El estudio se apoya en indicadores clave de negocio como ingresos totales, categ
 A continuación se presentan los principales gráficos generados durante el análisis:
 
 ### Ingresos totales por tienda
-![Ingresos por tienda](images/ingresosTotales.png)
+![Ingresos por tienda](images/IngresosTotales.png)
 
 ### Categorías más vendidas
 ![Ventas por categoría](images/VentasCategorias.png)
