@@ -1,5 +1,9 @@
 # **Challenge: Alura Store**
 
+<p align="center">
+  <img src="https://github.com/AgustinMartinez7/ONE-challenge-AluraStore/blob/main/images/Insignia.png" alt="Insignia"/>
+</p>
+
 ## **Descripción del proyecto**
 
 Este proyecto consiste en un análisis exploratorio de datos realizado en Google Colab con el objetivo de evaluar el rendimiento de las tiendas de la cadena Alura Store.
